@@ -11,5 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: klyssmannoliveira@gmail.com
 - ⚡ Fun fact: I'm Aerospace Engineer
 
-
-![Klyssmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=klyssmannoliveira&show_icons=true&theme=radical)
